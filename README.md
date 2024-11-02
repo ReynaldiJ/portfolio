@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Reynaldi! I am on track to completing my degree in Computer Science and Mathematics. 
 
-My CV in [pdf](https://github.com/ReynaldiJ/portfolio/blob/main/text_summarization.ipynb).
+My CV in [pdf](https://github.com/ReynaldiJ/portfolio/blob/main/REYNALDI%20JOELY%20-%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
