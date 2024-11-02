@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ReynaldiJ/portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ReynaldiJ/portfolio/blob/main/README.md#about#portfolio-projects)
 - [Education](https://github.com/ReynaldiJ/portfolio/blob/main/README.md#about#education)  
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contact](https://github.com/ReynaldiJ/portfolio/blob/main/README.md#contacts)
   
 ## Portfolio Projects
 In this section I will list data analytics/machine learning projects.
